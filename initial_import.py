@@ -9,3 +9,5 @@ data = pd.read_csv(filename)
 
 # create headings list
 headings = list(data)
+
+print(headings)
