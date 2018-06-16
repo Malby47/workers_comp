@@ -1,4 +1,4 @@
-# Workers' Compensation Data (Qld - Australia
+# Workers' Compensation Data (Qld - Australia)
 
 ## Introduction
 This is data relating to workers' compensation in Queensland and I am learning how to do data projects.
